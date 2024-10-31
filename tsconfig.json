@@ -22,7 +22,7 @@
   "include": [
     "changelog.config.cjs",
     "tailwind.config.js",
-    "vitest.config.ts",
+    "vite.config.ts",
     "vitest.config.ts",
     "postcss.config.js",
     "prettier.config.js",
